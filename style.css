@@ -1,0 +1,60 @@
+.rating {
+  color: yellow;
+}
+.product-items {
+  max-width: 300px;
+}
+.footer-items {
+  color: #ccc;
+}
+.footer-items ul {
+  list-style: square;
+}
+.breadcrumb {
+  background-color: #eee;
+}
+.product-small {
+  max-width: 10rem;
+}
+.product-small img {
+  padding: 5px;
+}
+.cart-item {
+  border: 1px solid black;
+}
+.bi-x {
+  color: red;
+  font-size: 2rem;
+}
+.login-box {
+  background-color: whitesmoke;
+  border-radius: 20px;
+  padding: 2rem;
+}
+body {
+  min-height: 100vh;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+.bi-check-circle-fill {
+  font-size: 100px;
+  color: green;
+}
+.bi-emoji-frown-fill {
+  font-size: 100px;
+  color: red;
+}
+.color-label {
+  border-radius: 50% !important;
+  margin: 5px;
+}
+.text-small {
+  font-size: 0.8rem;
+}
+.nav-item:hover {
+  background-color: #ffffff33;
+}
+.accordion-body {
+  font-size: 0.8rem;
+  color: grey;
+}
